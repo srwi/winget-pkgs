@@ -49,3 +49,6 @@ Installers:
     DefaultInstallLocation: '%ProgramFiles%\EverythingToolbar'
 ManifestType: installer
 ManifestVersion: 1.12.0
+Dependencies:
+  PackageDependencies:
+  - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.8
